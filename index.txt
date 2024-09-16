@@ -1,10 +1,6 @@
-This is a personal portfolio made by codewithsadee
-
-https://prod.liveshare.vsengsaas.visualstudio.com/join?0D57B5302506A6B1FDEE09DD05B6322C0EFE
 
 
-
-#---------- HEADER ----------#
+#---------- header ----------#
 
 alt = logo
 
@@ -13,160 +9,171 @@ alt = logo
 <span class="material-symbols-outlined light" aria-hidden="true"> light_mode </span>
 
 
+#---------- hero ----------#
 
-#---------- HERO ----------#
+alt = Daniel Franco
 
-alt = Ahmed Khalid
+GIS Business Analyst & Data Scientist MSc
 
-Software Engineer
+Daniel Franco
 
-Ahmed Khalid
-
-Lorem ipsum dolor sit amet consectetur. Quam ut feugiat ut porta morbi lobortis tristique.
+Transforming data into actionable insights. I create solutions to drive efficiency and unlock the potential of your business data.
+Transformo dados em insights acionáveis. Crio soluções para aumentar a eficiência e desbloquear o potencial dos dados da sua empresa.
 
 <span class="material-symbols-outlined" aria-hidden="true"> mail </span>
-khalid@techgulf.com
+daniel.franco.inbox@gmail.com
 
 <span class="material-symbols-outlined" aria-hidden="true"> call </span>
-+213908539206
++351910084450
 
 
-
-#---------- ABOUT CARD ----------#
+#---------- about card ----------#
 
 About
 
-A passionate software engineer with a strong background in Computer Science.
+Passionate Data Scientist with strong technical expertise and interpersonal skills. Specializing in developing automated, efficient solutions with machine learning, data pipelines, web scraping, and dashboards to optimize business performance.
+Um Data Scientist dedicado com fortes habilidades sociais e técnicas. Especializado no desenvolvimento de soluções automatizadas e eficientes através de Machine Learning, pipelines de dados, web scraping e dashboards para otimizar performance empresarial.
 
 <span class="material-symbols-outlined" aria-hidden="true"> location_on </span>
-Cairo, Egypt
+Lisbon, Portugal
 
 <span class="material-symbols-outlined" aria-hidden="true"> work </span>
-TechGulf Solutions
+Sonae MC
 
-<span class="material-symbols-outlined" aria-hidden="true"> captive_portal </span>
-https://example.com
+<span class="material-symbols-outlined" aria-hidden="true"> school </span>
+NOVA IMS
 
 
-
-#---------- PRIMARY TAB ----------#
+#---------- primary tab ----------#
 
 Projects
+Projetos
 
 Resume
+Currículo
 
 Contact
+Contacto
 
 
+#---------- project ----------#
 
-#---------- PROJECT ----------#
+alt = Project 1 Image
 
-alt = Pixstock - Stock Media App
+Project 1 Type
+Project 1 Title
 
-Web App
-Pixstock - Stock Media App
+alt = Project 2 Image
 
-alt = Cook.io - Recipe App
+Project 2 Type
+Project 2 Title
 
-Web App
-Cook.io - Recipe App
+alt = Project 3 Image
 
-alt = GitFinder - Github User Finder
+Project 3 Type
+Project 3 Title
 
-Web App
-GitFinder - Github User Finder
+alt = Project 4 Image
 
-alt = Weatherio - Live Weather App
+Project 4 Type
+Project 4 Title
 
-Web App
-Weatherio - Live Weather App
+alt = Project 5 Image
 
-alt = Tvflix - Netflix Clone 2.0
+Project 5 Type
+Project 5 Title
 
-Web App
-Tvflix - Netflix Clone 2.0
+alt = Project 6 Image
 
-alt = Travelia - Travel Website
+Project 6 Type
+Project 6 Title
 
-Website
-Travelia - Travel Website
-
-
-
-#---------- RESUME ----------#
+#---------- resume ----------#
 
 Experience
+Experiência
 
-Software Engineer, TechGulf Solutions
-2018 - Present
+GIS Business Analyst, Sonae MC
+2023 - Present
+2023 - Presente
 
-Led the development of a customer management system, resulting in improved efficiency and streamlined processes.
+Led the development of a Machine Learning sales forecasting model using GIS to generate and analyze store catchment areas and capture geographic patterns, enabling benchmarking of potential store locations and supporting decision-making in site selection.
+Liderei o desenvolvimento de um modelo de previsão de vendas com Machine Learning usando GIS para criar analisar áreas de influência de lojas e capturar padrões geográficos, permitindo a comparação de potenciais locais para abertura de loja.
 
-Software Developer Intern, ByteOasis Corporation
-2016 - 2017
+Business Analyst Intern, Sonae MC
+2022 - 2023
 
-Assisted in the development and testing of a mobile application for internal use.
+Automated data collection and processing workflows, including web scraping, to streamline reporting. Produced business analysis on store performance to support data-driven decision-making.
+Automatizei fluxos de trabalho de coleção e processamento de dados, incluindo web scraping, para otimizar relatórios. Produzi análises de negócios sobre o desempenho das lojas para apoiar a tomada de decisões baseadas em dados reais.
 
 Education
+Educação
 
-Certification in Web Development with React.js (FreeCodeCamp Certification)
-2015 - 2016
+MSc Data Science & Advanced Analytics, NOVA IMS
+2022 - Present
+2022 - Presente
 
-Relevant Coursework: Data Structures, Algorithms, Database Management
-2014 - 2013
+Business Analytics Course: Be Generative, Porto Business School
+2024
 
-Bachelor of Science in Computer Science, Alexandria University
-2010 - 2014
+PgD Business Analytics, NOVA IMS
+2021 - 2022
 
-Skills and Technologies
+Programming Languages
+Linguagens de Programação
 
-HTML5
-CSS3
-JavaScript
-React.js
-Node.js
+Python
+Sklearn
+PyTorch
+Tensorflow
+
 GitHub
-MongoDB
 VS Code
 
 
-
-
-#---------- CONTACT ----------#
+#---------- contact ----------#
 
 Contact Info
+Informaçao de Contacto
 
 <span class="material-symbols-outlined" aria-hidden="true"> mail </span>
 
-Mail Us
-khalid@techgulf.com
-khalid@service.com
+Send me an email
+Envie-me um email
+
+daniel.franco.inbox@gmail.com
 
 <span class="material-symbols-outlined" aria-hidden="true"> call </span>
 
-Contact Us
-+2382395632498
-+2323982609238
+Contact me
+Contacte-me
++351 910084450
 
 <span class="material-symbols-outlined" aria-hidden="true"> location_on </span>
 
 Address
-Al Azbakeya, Cairo Governorate 4320001, Egypt
+Morada
+Praça Dom João I, Amadora, Portugal
 
-Social Info
+Social Media
+Redes Sociais
 
-Let’s Work Together.
+Let’s Work Together!
+Vamos Trabalhar Juntos!
 
 Name*
+Nome*
 Email*
 Subject
+Tópico
 Message*
+Mensagem*
 
 Send Message
+Enviar Mensagem
 
 
+#---------- footer ----------#
 
-
-#---------- FOOTER ----------#
-
-Copyright 2023. All right reserved by codewithsadee
+Copyright 2024. All right reserved by Daniel Franco.
+Copyright 2024. Todos os direitos reservados por Daniel Franco.

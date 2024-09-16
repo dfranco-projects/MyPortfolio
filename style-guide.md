@@ -104,12 +104,12 @@ Font weight
 ### Border Radius
 
 ``` css
---shape-corner-extra-small: 4px;
---shape-corner-small: 8px;
---shape-corner-medium: 12px;
---shape-corner-large: 16px;
---shape-corner-full: 500px;
---shape-corner-circle: 50%;
+--radius-extra-small: 4px;
+--radius-small: 8px;
+--radius-medium: 12px;
+--radius-large: 16px;
+--radius-full: 500px;
+--radius-circle: 50%;
 ```
 
 ### Box shadow
