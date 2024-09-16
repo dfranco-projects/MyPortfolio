@@ -57,6 +57,11 @@ function setLanguage(lang) {
     document.querySelectorAll('[data-en]').forEach(el => {
         el.textContent = el.getAttribute(`data-${lang}`);
     });
+    document.querySelectorAll('[data-en-placeholder]').forEach(el => {
+        if (el.hasAttribute('data-' + lang + '-placeholder')) {
+            el.placeholder = el.getAttribute('data-' + lang + '-placeholder');
+        }
+    });
 }
 
 /**

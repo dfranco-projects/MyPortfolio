@@ -98,7 +98,7 @@ GIS Business Analyst, Sonae MC
 2023 - Presente
 
 Led the development of a Machine Learning sales forecasting model using GIS to generate and analyze store catchment areas and capture geographic patterns, enabling benchmarking of potential store locations and supporting decision-making in site selection.
-Liderei o desenvolvimento de um modelo de previsão de vendas com Machine Learning usando GIS para criar analisar áreas de influência de lojas e capturar padrões geográficos, permitindo a comparação de potenciais locais para abertura de loja.
+Liderei o desenvolvimento de um modelo de Machine Learning para previsão de vendas com GIS para criar analisar áreas de influência de lojas e capturar padrões geográficos, permitindo a comparação de potenciais locais para abertura de loja.
 
 Business Analyst Intern, Sonae MC
 2022 - 2023
