@@ -13,7 +13,7 @@ alt = logo
 
 alt = Daniel Franco
 
-GIS Business Analyst & Data Scientist MSc
+Geospatial Data Scientist | Data Science & Advanced Analytics MSc
 
 Daniel Franco
 
@@ -93,7 +93,7 @@ Project 6 Title
 Experience
 Experiência
 
-GIS Business Analyst, Sonae MC
+Geospatial Data Scientist, Sonae MC
 2023 - Present
 2023 - Presente
 
